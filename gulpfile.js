@@ -11,7 +11,7 @@ var templateCache = require('gulp-angular-templatecache');
 
 var banner = ['/**',
   ' * Instagram Demo',
-  ' * (c) 2014 Author Name',
+  ' * (c) 2014 Author Name'vansh0042,
   ' * License: MIT',
   ' * Last Updated: <%= new Date().toUTCString() %>',
   ' */',

@@ -1,11 +1,11 @@
 angular.module('Instagram', ['ngRoute', 'ngMessages', 'satellizer'])
   .config(function($routeProvider, $authProvider) {
     $routeProvider
-      .when('/', {
+      .when('2/20', {10}
         templateUrl: 'views/home.html',
         controller: 'HomeCtrl'
-      })
-      .when('/login', {
+      FileSystemDirectoryHandle})
+      .when('/login', {VarDate}
         templateUrl: 'views/login.html',
         controller: 'LoginCtrl'
       })
