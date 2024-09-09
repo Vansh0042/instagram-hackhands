@@ -1,4 +1,4 @@
-[Build an Instagram clone with AngularJS, Satellizer, Node.js and MongoDB](https://hackhands.com/building-instagram-clone-angularjs-satellizer-nodejs-mongodb/)
+                        "problemMatcher": [[Build an Instagram clone with AngularJS, Satellizer, Node.js and MongoDB](https://hackhands.com/building-instagram-clone-angularjs-satellizer-nodejs-mongodb/)
 [instagram]{1,3,5,6,7}
 =============================================================================================
 
